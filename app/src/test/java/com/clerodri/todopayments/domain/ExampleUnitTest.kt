@@ -1,4 +1,4 @@
-package com.clerodri.todopayments
+package com.clerodri.todopayments.domain
 
 import org.junit.Test
 
